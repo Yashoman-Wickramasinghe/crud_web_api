@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jCNRoECDe0wFytjB5WktFnZgY2ps0+t1VQQOQ+/1e3U=",
+  "Source": "crud_web_api",
+  "BasePath": "_content/crud_web_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
